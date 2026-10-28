@@ -1,6 +1,6 @@
 # Olá, eu sou a Byanca 👋
 
-Estudante de **Engenharia de Software** (2024–2028), buscando estágio em **Engenharia de Dados**.
+Estudante de **Engenharia de Software** (2024–2028), buscando estágio em **Engenharia de Software IA**.
 
 Antes da tecnologia, trabalhei com operações em centros de distribuição (Mercado Livre e Amazon), atendimento ao cliente (Distribuidora Enel) e suporte técnico (Beecenter). Essa experiência me ensinou a olhar para processos e números com um olhar prático, e hoje uso dados para responder perguntas reais.
 
