@@ -17,8 +17,10 @@ Antes da tecnologia, trabalhei com operações em centros de distribuição (Mer
 
 ## 📊 Projetos em destaque
 
-- **[Evolução da OBMEP (2005–2025)](https://github.com/byanca2/analise-obmep)**: 20 anos da maior olimpíada científica do Brasil. Coletei os dados oficiais, validei a base (encontrei uma inconsistência na fonte), limpei tudo em pandas e corrigi a conclusão de uma versão anterior do projeto.
+-  **[AI Operations Intelligence)**: dashboard interativo para análise de avaliações de clientes, com indicadores de satisfação, identificação de reclamações e classificação de texto usando Python, pandas, scikit-learn e Streamlit.
+-  **[Evolução da OBMEP (2005–2025)](https://github.com/byanca2/analise-obmep)**: 20 anos da maior olimpíada científica do Brasil. Coletei os dados oficiais, validei a base (encontrei uma inconsistência na fonte), limpei tudo em pandas e corrigi a conclusão de uma versão anterior do projeto.
 - **[Temperaturas Máximas Médias do Brasil (INMET)](https://github.com/byanca2/analise-temperaturas-inmet)**: análise exploratória das Normais Climatológicas (1991–2020) por mês, estado e região, com mapa geográfico por estado.
+  
 
 ## 🔗 Onde me encontrar
 
