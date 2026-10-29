@@ -1,4 +1,4 @@
-# Olá, eu sou a Byanca 👋
+# Olá, eu sou a Byanca 
 
 Estudante de **Engenharia de Software IA** (2024–2028), buscando estágio em **Engenharia de Software IA**.
 
